@@ -2,45 +2,17 @@
 
 ### hey, i'm aisling 👋
 
-software dev who likes **shipped things** — an Android app for HRT tracking (MyHRT), React sites, Python scripts, and a self-hosted homelab that runs itself. hardware + sysadmin background, so my code survives contact with real machines.
+💻 currently accepting pull requests and panic logs — i ship android apps, self-host infra, and write up the unglamorous debugging
 
 🟢 open to opportunities · 📂 [portfolio](https://aislingheart.github.io/Portfolio/) · ✉️ [email](mailto:aislingcreed42@gmail.com)
 
 ---
 
-### what i build
+### projects
 
-<table>
-<tr>
-<td width="33%" valign="top">
-
-**apps i've shipped**
-<br/><br/>
-MyHRT — Android app with a pharmacokinetics sim engine, offline-first, published v1.0 APK. plus this portfolio (React 19 + TS + Tailwind).
-<br/><br/>
-<a href="https://aislingheart.github.io/Portfolio/#/projects">projects →</a>
-
-</td>
-<td width="33%" valign="top">
-
-**self-hosted infra**
-<br/><br/>
-homelab media + AI stack on Docker behind one nginx reverse proxy — plus a write-up on the subpath routing failure modes nobody warns you about.
-<br/><br/>
-<a href="https://aislingheart.github.io/Portfolio/#/projects">projects →</a>
-
-</td>
-<td width="33%" valign="top">
-
-**scripts & automation**
-<br/><br/>
-raycast macros, scripted server update pipelines, and small Python tooling that removes a manual step instead of adding a dashboard.
-<br/><br/>
-<a href="https://aislingheart.github.io/Portfolio/#/projects">projects →</a>
-
-</td>
-</tr>
-</table>
+<a href="https://github.com/aislingheart/MyHRT"><img src="projects-myhrt.png" width="32%" alt="MyHRT — kotlin android app" /></a>
+<a href="https://github.com/aislingheart/homelab-stack"><img src="projects-homelab.png" width="32%" alt="homelab-stack — docker nginx infra" /></a>
+<a href="https://github.com/aislingheart/Portfolio"><img src="projects-portfolio.png" width="32%" alt="Portfolio — react typescript site" /></a>
 
 ### how i work
 
@@ -50,7 +22,7 @@ raycast macros, scripted server update pipelines, and small Python tooling that 
 
 ### toolbox
 
-`typescript · react · kotlin · android · python · docker · nginx · git · linux · bash`
+<img src="https://skillicons.dev/icons?i=ts,react,kotlin,android,py,docker,nginx,git,linux,bash&theme=dark&perline=10" alt="typescript, react, kotlin, android, python, docker, nginx, git, linux, bash" />
 
 <div align="center">
 

@@ -5,24 +5,24 @@
 
 <!-- Typing headline, portfolio style -->
 <a href="https://aislingheart.github.io/Portfolio/">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2500&pause=900&color=E74C3C&background=0A0A0C00&center=true&vCenter=true&width=620&lines=versatile+tech+exp%7C;hardware+diagnostics;support+%26+admin;workflow+automation" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2500&pause=900&color=E74C3C&background=0A0A0C00&center=true&vCenter=true&width=700&lines=versatile+tech+exp%7C;hardware+diagnostics;support+%26+admin;workflow+automation" alt="typing" />
 </a>
 
   <!-- pills like your site -->
-  <img src="https://img.shields.io/badge/hey_there-👋-0a0a0c?style=for-the-badge&logo=sparkles&logoColor=E74C3C&labelColor=0a0a0c&color=ffffff22" alt="hey" />
-  <img src="https://img.shields.io/badge/open_to-opportunities_✨-34d399?style=for-the-badge&labelColor=0a0a0c&color=ffffff22" alt="open" />
+  <img src="https://img.shields.io/badge/hey_there-👋-0a0a0c?style=for-the-badge&logo=sparkles&logoColor=E74C3C&labelColor=0a0a0c" alt="hey" />
+  <img src="https://img.shields.io/badge/open_to-opportunities_✨-34d399?style=for-the-badge&labelColor=0a0a0c" alt="open" />
   <br/>
-  <img src="https://img.shields.io/badge/terminal--first-0a0a0c?style=flat-square&logo=gnubash&logoColor=white&labelColor=0a0a0c&color=ffffff22" />
-  <img src="https://img.shields.io/badge/hardware--focused_✨-0a0a0c?style=flat-square&labelColor=0a0a0c&color=ffffff22" />
-  <img src="https://img.shields.io/badge/cat--approved_🐱-0a0a0c?style=flat-square&labelColor=0a0a0c&color=ffffff22" />
+  <img src="https://img.shields.io/badge/terminal--first-0a0a0c?style=flat-square&logo=gnubash&logoColor=white&labelColor=0a0a0c" />
+  <img src="https://img.shields.io/badge/hardware--focused_✨-0a0a0c?style=flat-square&labelColor=0a0a0c" />
+  <img src="https://img.shields.io/badge/cat--approved_🐱-0a0a0c?style=flat-square&labelColor=0a0a0c" />
 
   <p><i>hey, i'm Aisling! 👋 i work across <b>hardware diagnostics</b>, <b>systems administration</b>, and <b>workflow automation</b>. whether that's micro-soldering delicate flex cables, managing homelab servers, or swapping a Linux drive to save a live exam — i love solving real technical problems with practical solutions.</i></p>
 
   <p><i>currently building out my skills in <code>sysadmin</code>, <code>networking</code>, and <code>scripting</code>.</i></p>
 
   <a href="https://aislingheart.github.io/Portfolio/"><img src="https://img.shields.io/badge/view_projects-→-f4f4f5?style=for-the-badge&labelColor=f4f4f5&color=f4f4f5&logoColor=0a0a0c" /></a>
-  <a href="https://aislingheart.github.io/Portfolio/#/about"><img src="https://img.shields.io/badge/about_me-0a0a0c?style=for-the-badge&labelColor=0a0a0c&color=ffffff22" /></a>
-  <a href="mailto:aislingcreed42@gmail.com"><img src="https://img.shields.io/badge/contact_me-0a0a0c?style=for-the-badge&logo=gmail&logoColor=E74C3C&labelColor=0a0a0c&color=ffffff22" /></a>
+  <a href="https://aislingheart.github.io/Portfolio/#/about"><img src="https://img.shields.io/badge/about_me-0a0a0c?style=for-the-badge&labelColor=0a0a0c" /></a>
+  <a href="mailto:aislingcreed42@gmail.com"><img src="https://img.shields.io/badge/contact_me-0a0a0c?style=for-the-badge&logo=gmail&logoColor=E74C3C&labelColor=0a0a0c" /></a>
 
 </div>
 

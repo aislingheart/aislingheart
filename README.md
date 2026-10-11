@@ -12,9 +12,6 @@
   <img src="https://img.shields.io/badge/hey_there-👋-0a0a0c?style=for-the-badge&logo=sparkles&logoColor=E74C3C&labelColor=0a0a0c" alt="hey" />
   <img src="https://img.shields.io/badge/open_to-opportunities_✨-34d399?style=for-the-badge&labelColor=0a0a0c" alt="open" />
   <br/>
-  <img src="https://img.shields.io/badge/terminal--first-0a0a0c?style=flat-square&logo=gnubash&logoColor=white&labelColor=0a0a0c" />
-  <img src="https://img.shields.io/badge/hardware--focused_✨-0a0a0c?style=flat-square&labelColor=0a0a0c" />
-  <img src="https://img.shields.io/badge/cat--approved_🐱-0a0a0c?style=flat-square&labelColor=0a0a0c" />
 
   <p><i>hey, i'm Aisling! 👋 i work across <b>hardware diagnostics</b>, <b>systems administration</b>, and <b>workflow automation</b>. whether that's micro-soldering delicate flex cables, managing homelab servers, or swapping a Linux drive to save a live exam — i love solving real technical problems with practical solutions.</i></p>
 

@@ -2,7 +2,7 @@
 
 ### hey, i'm aisling 👋
 
-💻 currently accepting pull requests and panic logs — i ship android apps, self-host infra, and write up the unglamorous debugging
+💻 software dev — i ship android apps, self-host the infra, and document the disasters
 
 🟢 open to opportunities · 📂 [portfolio](https://aislingheart.github.io/Portfolio/) · ✉️ [email](mailto:aislingcreed42@gmail.com)
 
@@ -22,7 +22,7 @@
 
 ### toolbox
 
-<img src="https://skillicons.dev/icons?i=ts,react,kotlin,android,py,docker,nginx,git,linux,bash&theme=dark&perline=10" alt="typescript, react, kotlin, android, python, docker, nginx, git, linux, bash" />
+<img src="https://skillicons.dev/icons?i=ts,react,kotlin,androidstudio,py,docker,nginx,git,linux,bash&theme=dark&perline=10" alt="typescript, react, kotlin, android studio, python, docker, nginx, git, linux, bash" />
 
 <div align="center">
 

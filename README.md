@@ -5,7 +5,7 @@
 
 <!-- Typing headline, portfolio style -->
 <a href="https://aislingheart.github.io/Portfolio/">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=800&color=E74C3C&background=0A0A0C00&center=true&vCenter=true&width=600&lines=versatile+tech+exp%7C;hardware+diagnostics+%F0%9F%94%A7;support+%26+admin+%F0%9F%9B%A1%EF%B8%8F;workflow+automation+%E2%9A%A1" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2500&pause=900&color=E74C3C&background=0A0A0C00&center=true&vCenter=true&width=620&lines=versatile+tech+exp%7C;hardware+diagnostics;support+%26+admin;workflow+automation" alt="typing" />
 </a>
 
   <!-- pills like your site -->

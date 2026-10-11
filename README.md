@@ -67,10 +67,4 @@ raycast macros, scripted server update pipelines, and small Python tooling that 
 <a href="https://aislingheart.github.io/Portfolio/">📂 portfolio</a> ·
 <a href="mailto:aislingcreed42@gmail.com">✉️ email</a>
 
-<br/><br/>
-<img src="https://komarev.com/ghpvc/?username=aislingheart&color=E74C3C&style=flat&label=profile+views" />
-
-<sub>© 2026 aisling. built with 💛 and way too many energy drinks.</sub><br/>
-<sub>terminal-first · hardware-focused ✨ · cat-approved 🐱</sub>
-
 </div>

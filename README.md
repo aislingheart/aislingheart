@@ -5,7 +5,7 @@
 
 <!-- Typing headline, portfolio style -->
 <a href="https://aislingheart.github.io/Portfolio/">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=3000&pause=800&color=E74C3C&background=0A0A0C00&center=true&vCenter=true&width=600&lines=versatile+tech+exp%7C;hardware+diagnostics+%F0%9F%94%A7;support+%26+admin+%F0%9F%9B%A1%EF%B8%8F;workflow+automation+%E2%9A%A1" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=800&color=E74C3C&background=0A0A0C00&center=true&vCenter=true&width=600&lines=versatile+tech+exp%7C;hardware+diagnostics+%F0%9F%94%A7;support+%26+admin+%F0%9F%9B%A1%EF%B8%8F;workflow+automation+%E2%9A%A1" alt="typing" />
 </a>
 
   <!-- pills like your site -->
@@ -87,7 +87,7 @@ custom scripts, environment shortcuts, and automated workflows to skip repetitiv
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=aislingheart&show_icons=true&theme=dark&bg_color=0a0a0c&title_color=e74c3c&text_color=f4f4f5&icon_color=e74c3c&border_color=ffffff22&hide_border=false" />
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aislingheart&layout=compact&theme=dark&bg_color=0a0a0c&title_color=e74c3c&text_color=f4f4f5&border_color=ffffff22&hide_border=false" />
 <br/>
-<img src="https://streak-stats.demolab.com?user=aislingheart&theme=dark&background=0A0A0C&ring=E74C3C&fire=E74C3C&currStreakLabel=F4F4F5&sideLabels=A1A1AA&border=FFFFFF22" height="160" />
+<img src="https://streak-stats.demolab.com/?user=aislingheart&theme=dark&background=0A0A0C&ring=E74C3C&fire=E74C3C&currStreakLabel=F4F4F5&sideLabels=A1A1AA&border=FFFFFF22" height="160" />
 
 ### 📫 find me
 
